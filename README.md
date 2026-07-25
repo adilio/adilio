@@ -17,7 +17,7 @@
   <a href="https://twitter.com/adilio">X</a>
 </p>
 
-## From brains to clouds
+## A head that’s always in the clouds ⛅️
 
 I started out in a neuroscience research lab at UBC. I was supposed to be helping run experiments, but I kept ending up responsible for the servers. Eventually, that became the job. I left with a few published papers and an appreciation for both the brains we studied and the machines we used to study them. The machines were easier to reboot when something went wrong, and they had better documentation.
 

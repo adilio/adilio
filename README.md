@@ -1,63 +1,50 @@
-# 👋 Hey there, I'm Adil Leghari
-**Senior Solutions Engineer @ Wiz**  
-📍 Vancouver, Canada  
-☕ Sysadmin-turned-Solutioneer | 💻 Cloud Security | ⚙️ Automation | 🧠 PowerShell | ☁️ Multi-Cloud  
+<p align="center">
+  <img src="https://adilio.ca/img/adil-cartoon-headshot.png" width="160" alt="Cartoon portrait of Adil Leghari">
+</p>
 
----
+<h1 align="center">Heya, I'm Adil 👋🏼</h1>
 
-### 🧩 About Me
+<p align="center">
+  <strong>Senior Solutioneer @ Wiz</strong><br>
+  Cloud security · automation · PowerShell · useful things of questionable utility<br>
+  Vancouver, Canada
+</p>
 
-I'm Adil, a sysadmin-turned-solutions-engineer who believes that curiosity, automation, and caffeine are the holy trinity of productivity.
+<p align="center">
+  <a href="https://adilio.ca">Website</a> ·
+  <a href="https://www.linkedin.com/in/adilio/">LinkedIn</a> ·
+  <a href="https://bsky.app/profile/adilio.ca">Bluesky</a> ·
+  <a href="https://twitter.com/adilio">X</a>
+</p>
 
-I currently work as a **Senior Solutions Engineer at Wiz**, helping organizations across Canada secure their cloud environments -- from code to cloud. I'm passionate about making cloud security accessible, removing gatekeeping from the field, and turning complex security concepts into things people actually want to engage with.
+## From brains to clouds
 
-When I'm not building labs or wrangling cloud risks, I'm probably creating something weird and wonderful -- like games, tools, or interactive demos that make learning security a little less boring.
+I started out in a neuroscience research lab at UBC. I was supposed to be helping run experiments, but I kept ending up responsible for the servers. Eventually, that became the job. I left with a few published papers and an appreciation for both the brains we studied and the machines we used to study them. The machines were easier to reboot when something went wrong, and they had better documentation.
 
----
+I spent more than a decade as a sysadmin at UBC, where I got deep into PowerShell and started automating the repetitive parts of the job. Since then, I've worked on package management and artifact security at Chocolatey and Cloudsmith, identity at Okta, and now cloud security at [Wiz](https://www.wiz.io/).
 
-### 🧠 What I'm Into
+These jobs sound different on paper, but they all come down to the same thing: understanding how systems fail, helping people make them safer, and explaining the complicated bits without turning them into jargon.
 
-- 🔐 **Cloud Security** -- CNAPP, CSPM, CIEM, DSPM, AI-SPM, and everything Wiz  
-- ⚙️ **Automation & DevOps** -- PowerShell, Bash, Terraform, GitHub Actions  
-- ☁️ **Multi-Cloud Architecture** -- AWS, Azure, GCP, and hybrid security patterns  
-- 🛡️ **Supply Chain & AppSec** -- Artifact integrity, provenance, and pipeline security  
-- 🎨 **Creative Projects** -- Blending tech with design, storytelling, and humor  
+## What I'm into
 
----
+- 🔐 Making cloud security more approachable, from code to cloud
+- ⚙️ Automating repetitive work with PowerShell, Bash, Terraform, and GitHub Actions
+- 🛡️ Exploring software supply chains, artifact integrity, identity, and AppSec
+- 🎨 Mixing technology with design, storytelling, and a little humour
+- 🧪 Building games, tools, and interactive demos that make learning less boring
 
-### 💡 Projects You Might Like
+## Things I've built
 
-- 🔍 **[QRCheck.ca](https://qrcheck.ca)** -- A privacy-first QR code security scanner that helps protect you from phishing and scam redirects  
-- 🃏 **[ThreatDex](https://github.com/adilio/threatdex)** -- APT threat actor intelligence as interactive trading cards -- browse, filter, and collect intel on the world's most dangerous cyber threat groups  
-- 🎯 **[Cyberdle](https://cyberdle.adilio.ca)** -- A Wordle-style game for cybersecurity acronyms  
-- ☕ **[CNAPPuccino](https://github.com/adilio/cnappuccino)** -- A hands-on cloud security lab "brewed for the cloud"  
+- **[4dl Apps](https://4dl.ca/)** — small, privacy-friendly web apps made for the joy of making useful things
+- **[QRCheck](https://qrcheck.ca/)** — a privacy-first QR code scanner that checks links for phishing and suspicious redirects
+- **[ThreatDex](https://github.com/adilio/threatdex)** — threat-actor intelligence presented as interactive trading cards
+- **[Cyberdle](https://cyberdle.adilio.ca/)** — a Wordle-style game for cybersecurity acronyms
+- **[CNAPPuccino](https://github.com/adilio/cnappuccino)** — a hands-on cloud security lab, brewed for the cloud
 
----
+There are plenty more experiments, utilities, and rabbit holes in [my repositories](https://github.com/adilio?tab=repositories) and on [adilio.ca](https://adilio.ca/).
 
-### 🗣️ Community & Collaboration
+## Community
 
-I'm active in the **PowerShell**, **Cloud Security**, and **Canadian tech** communities.
+I co-founded the Pacific Northwest PowerShell User Group, co-hosted BridgeConf, and speak at conferences about PowerShell, automation, cloud, and security. I care about making technical communities welcoming and making security knowledge easier to access.
 
-I co-founded the **Pacific Northwest PowerShell User Group**, co-hosted **BridgeConf**, and regularly speak at conferences on topics ranging from supply chain security to cross-cloud automation with PowerShell. You'll find me in PowerShell Slack and Discord, mentoring peers, or building content that makes security less of a black box.
-
-If you're into building, breaking, or brewing (coffee or code), let's connect.
-
----
-
-### 🎨 Fun Stuff
-
-When I'm not scripting or securing things, I'm:
-
-- 🏔️ Snowboarding  
-- 🎨 Designing logos, stickers, and icons  
-- 🧠 Turning neuroscience roots into security analogies nobody asked for  
-
----
-
-### 📫 Let's Connect
-
-- 🌐 [adilio.ca](https://adilio.ca)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/adilio/)  
-- 🐙 [GitHub](https://github.com/adilio)  
-- 🦋 [Bluesky](https://bsky.app/profile/adilio.ca) -- [@adilio.ca](https://bsky.app/profile/adilio.ca)  
-- 🐦 [Twitter / X](https://twitter.com/adilio) -- [@adilio](https://twitter.com/adilio)
+Away from the keyboard, you'll usually find me snowboarding, collecting far too many stickers, fussing over travel tech, or turning my neuroscience roots into security analogies nobody asked for.
